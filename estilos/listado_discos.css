@@ -1,0 +1,18 @@
+.disco{
+	width:96%;
+	height:150px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border: 1px solid orange;
+	margin-top: 1%;
+	margin-bottom: 1%;	
+	margin-left:auto;
+	margin-right:auto;
+}
+.caratula{
+	width:100px;
+	height:150px;
+	margin-left:1%;
+	background-color:red;
+	float:left;
+}

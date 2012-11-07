@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+   	<link rel="stylesheet" type="text/css" href="estilos/original.css" title="style" />
+		<title></title>
+	</head>
+	<body>
+		<div id="contenedor">
+			<div id="cabecera">
+				<div id="logo"><img SRC="img/logo.png" ALT="Pendiente"></div>
+				<div id="buscador"></div>
+			<!-- fin cabecera -->		
+			</div>
+			<div id="menu">
+				<ul>
+					<li>Estrenos</li>
+					<li>Próximamente</li>
+					<li>xxxxx</li>
+					<li>xxxx</li>		
+				</ul>
+			<!-- fin menu -->
+			</div>
+			<div id="principal">
+				<div id="principal_izquierdo">
+					<div id="login">
+					<!-- fin login -->					
+					</div>
+					<div id="ultimos_estrenos">
+					<!-- fin ultimos_estrenos -->					
+					</div>
+				<!-- fin principal_izquierdo -->
+				</div>
+				<div id="principal_derecho">
+				<!-- fin principal_derecho -->
+				</div>
+			<!-- fin principal --> 			
+			</div>
+		<!--fin contenedor -->
+		</div>
+	</body>
+</html>

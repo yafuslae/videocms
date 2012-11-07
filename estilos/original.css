@@ -1,0 +1,131 @@
+*{
+margin:0;
+padding:0;
+	}
+body{
+	background-color:#0B2161;
+}
+#contenedor{
+	max-width:85%;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:60px;
+	background-color:#A9BCF5;
+    border: 1px solid orange;
+	overflow:hidden;
+	
+}	
+    #cabecera{
+     height:120px;
+     overflow:hidden;
+    }
+    	#logo{
+    		margin:10px;
+    		float:left;
+    	}
+    	
+    	
+    	#header_derecho{
+    		margin-right:20px;
+    		margin-top:10px;
+    		float:right;
+    		overflow:hidden;
+    	}
+    	
+    	#header_derecho p{	
+    		margin-top:0.5em;
+        	margin-bottom:0.5em;
+    	}
+    
+		
+    #principal{	
+    	 overflow:hidden;	
+    }
+        #principal_izquierdo{
+            width: 20%;
+            float:left;
+            margin-left:1%;
+        }
+        #principal_central{
+        	/*Temporal*/
+         	width:55%;
+            float:left;
+            overflow:hidden;
+            margin-left:1%;
+            margin-right:1%;                         
+            
+        }
+        	/*#menu{
+                text-align:center;
+                font-size:1.2em;
+                font-weight:bold;
+                color:white;
+                background-color:#A9BCF5;
+                border-bottom: 2px solid blue;
+                margin-left:5%;
+                margin-right:5%;
+            }
+            #menu ul{
+            	position:relative;
+                left:50%;    
+            }
+            #menu ul li{
+                display:inline;
+                padding: 20px;
+                position:relative;
+                right:50%;
+            }*/
+            #escaparate{
+            	margin-top:1%;
+            	margin-bottom:1%;
+            }
+            
+        #principal_derecho{
+            width: 21%;
+            float:right;
+            margin-right:1%;        
+        }
+        
+   /*Necesario para la base de los módulos*/
+    .modulo{
+       	background-color:#A9D0F5;
+		padding-top:2%;
+		margin-bottom:2%;
+	    border:1px solid #D8D8D8;
+
+    	}
+	.titulo_modulo{
+	    font-size:16px;
+	    font-weight:bold;
+	    color:white;
+	    border-bottom:1px solid #D8D8D8;
+	    text-indent:2%;	 
+	    margin-bottom:1px;
+	    text-align:center;
+	    list-style:none; 
+    	}
+    .interior_modulo{
+    	margin-bottom:1px;
+	    margin-left:1px;
+	    margin-right:1px;
+	    background-color:#CEECF5;
+		border:1px solid #A4A4A4;
+		
+		overflow:hidden;
+    }
+    /*ELEMENTOS ESTANDAR*/
+   label{
+		display:inline-block;
+		width:150px;
+		margin-bottom:10px;
+	}
+	form{
+		margin:auto;
+	}
+	form input{
+		display:inline-block;
+	}
+
+/*Borradores*/
+            
+	        

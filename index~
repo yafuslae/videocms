@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<div id="cabecera">
+			<div id="logo"><!--Aquí el link del logo --></div>
+			<div id="buscador"></div>
+		<!-- fin cabecera -->		
+		</div>
+		<div id="menu">
+			<ul>
+				<li>Estrenos</li>	
+				<li>Próximamente</li>
+				<li></li>
+				<li></li>		
+			</ul>
+		<!-- fin menu -->
+		</div>
+	</body>
+</html>

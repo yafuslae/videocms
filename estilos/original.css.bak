@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+  </head>
+  <body>
+    <pre>*{
+margin:0;
+padding:0;
+border: 1px solid cyan;	
+	}
+#contenedor{
+	width:80%;
+	height:90%;
+	margin:auto;
+}	
+#cabecera{
+}
+	#logo{
+		width:400px;
+		height:100px;
+		margin:10px;
+	}
+	#buscador{
+	}
+#menu{
+}
+#menu ul li{
+	display: inline;
+}
+/* ELEMENTOS BÃ&#129;SICOS */
+
+</pre><br>
+  </body>
+</html>

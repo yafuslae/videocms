@@ -1,0 +1,7 @@
+INSERCIÓN DE ESTRENOS:
+	Llamar a la base de datos y buscar películas cuyas inserción fueron hechas en un máximo de 7 dias.
+	Guardar en un array cada película cuyos parametros serán los necesarios en las fichas.
+	Crear en un for secciones para la ficha de las películas teniendo en cuenta que el máximo de iteraciones será el array.length y los datos para esa 		sección sacados de los parámetros del array.
+
+BUSCAR:
+CRUD y ACTIVE RECORD.

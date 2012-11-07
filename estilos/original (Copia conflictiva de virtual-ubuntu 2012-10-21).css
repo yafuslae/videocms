@@ -1,0 +1,65 @@
+*{
+margin:0;
+padding:0;
+
+	}
+#contenedor{
+	width:80%;
+	max-width:900px;
+	margin:auto;
+}	
+    #cabecera{
+     border: 1px solid orange;
+     min-width:900px;
+     height:120px;
+    }
+    	#cabecera #logo{
+    		min-width:400px;
+    		min-height:100px;
+    		margin:10px;
+    		
+    		float:left;
+    	}
+    	#cabecera #buscador{
+        	width:200px;
+        	height:100px;
+        	border: 1px solid blue;
+        	margin:10px;
+        	float:right;
+    	}
+    #principal{
+        max-width:900px;
+        border: 1px solid red;	
+    }
+        #principal #principal_izquierdo{
+            width: 194px;
+            min-height:900px;
+            float:left;
+            border: 1px solid purple; 
+        }
+         #principal #principal_derecho{
+            width:700px;
+            min-height:900px;
+            float:right;
+            border: 1px solid green;
+         }
+            #principal_derecho #menu{
+                max-width:900px;
+                border-bottom: 1px solid black;
+                text-align:center;
+                font-size:1.2em;
+            }
+            #principal_derecho #menu ul{
+                padding-top:5px;
+                padding-bottom:5px;
+               
+            }
+            #principal_derecho #menu ul li{
+                display:inline;
+                padding: 20px;
+            }
+            #principal_derecho #escaparate{
+                
+            }
+        
+    /* ELEMENTOS BAÂSICOS */
